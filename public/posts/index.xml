@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>📝 blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 📝 blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <title>stash</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content on stash</description>
+    <title>Posts on stash</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on stash</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 20:21:33 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>m2: Monthly Report: Feb 2025</title>
       <link>http://localhost:1313/blog/posts/m2-2025/</link>
@@ -93,6 +85,5 @@
       <guid>http://localhost:1313/blog/posts/switch-nvidia/</guid>
       <description>Note: Make sure to Disable Secure Boot, else whatever you do it won&amp;rsquo;t work :)&#xA;Install &amp;amp; Switch to NVIDIA 1. Install the required dependencies&#xA;sudo dnf install akmod-nvidia xorg-x11-drv-nvidia xorg-x11-drv-nvidia-cuda 2. Edit the environment configuration file for your shell&#xA;sudo nano /etc/environment 3. Add the following lines to enable the GPU&#xA;__GLX_VENDOR_LIBRARY_NAME=nvidia __NV_PRIME_RENDER_OFFLOAD=1 __VK_LAYER_NV_optimus=NVIDIA_only 4. Restart the system&#xA;sudo reboot 5. Check the status of the currently selected GPU</description>
     </item>
->>>>>>> 41165a9 (update: correcting the invalid date)
   </channel>
 </rss>
