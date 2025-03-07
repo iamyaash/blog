@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html><head>
-	<meta name="generator" content="Hugo 0.126.2">
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <title>📝 blog</title>
+    <title>m1: Monthy Report: Jan 2025 - 📝 blog</title>
 
     
     
-    <meta name="description" content="" />
+    <meta name="description" content="Monthly Report -m1: Started using jrnl cmd tool for taking notes &amp; using it sort of like a journal. Merged PR 2418. Migrating essential Information from infra/hosts to infra/ansible. Manually copied the notes variable from each hosts on infra/hosts. In which the name of the hostname shouldn&rsquo;t be phx2 and the same hostname should present in infra/ansible as well. I was supposed to do it using a script, but I didn&rsquo;t have that much experience using scripts on remote servers." />
     <meta name="author" content="" />
     
 
@@ -53,7 +52,13 @@
 </nav>
 <div class="d:flex flex:column@<=sm pt:90 px:24 jc:center gap:44 word-break:break-word">
         <div class="max-w:700 w:full box:content-box">
-<div class="d:flex flex:col"><div class="
+<article class="box:border-box pt:32">
+    <header class="mb:32">
+        <div class="font:40 font:extrabold">m1: Monthy Report: Jan 2025</div>
+        <div class="mt:16 f:fade-60">
+            <time>Jan 31, 2025</time>
+            </div>
+    </header><div class="
     _:where(a):hover{text-decoration-color:fade}
     _:where(a){text-decoration:2;underline;fade-10;_text-decoration-color:fade-70@dark}
     _:where(blockquote){bl:5;solid;fade-76/.1;_bl:5;solid;fade-34/.1@dark}
@@ -90,28 +95,33 @@
     _:where(video,img){max-width:full}
     _:where(a,mark){text-underline-offset:3}
     _:where(hr){h:2;_bg:fade-10;_bg:fade-70@dark;_my:3em}
-"></div><h2 class="my:1em">Posts</h2><div class="mb:12 py:8">
-    <a class="f:18! font:semibold! f:fade-30! text-decoration:none f:fade-10!:hover transition:150ms;ease-in" href="https://iamyaash.github.io/posts/devconf-india-2025/">
-        DevConf India 2025
-    </a>
-    <div class="mt:12 f:14 f:fade-60"><time>Mar 6, 2025</time></div>
-    
-</div>
-<div class="mb:12 py:8">
-    <a class="f:18! font:semibold! f:fade-30! text-decoration:none f:fade-10!:hover transition:150ms;ease-in" href="https://iamyaash.github.io/posts/m2-2025/">
-        m2: Monthly Report: Feb 2025
-    </a>
-    <div class="mt:12 f:14 f:fade-60"><time>Feb 28, 2025</time></div>
-    
-</div>
-<div class="mb:12 py:8">
-    <a class="f:18! font:semibold! f:fade-30! text-decoration:none f:fade-10!:hover transition:150ms;ease-in" href="https://iamyaash.github.io/posts/m1-2025/">
-        m1: Monthy Report: Jan 2025
-    </a>
-    <div class="mt:12 f:14 f:fade-60"><time>Jan 31, 2025</time></div>
-    
-</div>
-</div>
+"><h1 id="monthly-report--m1">Monthly Report -<code>m1</code>:</h1>
+<ul>
+<li>Started using <code>jrnl</code> cmd tool for taking notes &amp; using it sort of like a journal.</li>
+<li>Merged <a href="https://pagure.io/fedora-infra/ansible/pull-request/2418">PR 2418</a>.
+<ul>
+<li>Migrating essential Information from <code>infra/hosts</code> to <code>infra/ansible</code>.</li>
+<li>Manually copied the <code>notes</code> variable from each hosts on <code>infra/hosts</code>. In which the name of the hostname shouldn&rsquo;t be <code>phx2</code> and the same hostname should present in <code>infra/ansible</code> as well.</li>
+<li>I was supposed to do it using a script, but I didn&rsquo;t have that much experience using scripts on remote servers.</li>
+<li>So at the end, found 15 hostnames that matches the search and only 2 have <code>notes</code> variable in it with content inside them.(other mostly have none or no <code>notes</code> variable present inside them)</li>
+<li>Adjusted <code>ansible/roles/base/motd.j2</code> by including the only <code>env</code> &amp; <code>freezes</code> variable and removing all the information that is related to <code>CSI</code> and stuffs that points to <code>infra/hosts</code>.</li>
+<li>Finally removed the variables in the <code>ansible/inventory/host_vars</code> such as <code>csi_primary_contacts</code>, <code>csi_purpose</code>, <code>csi_relationship</code> &amp; <code>csi_security_category</code>.</li>
+<li>However, I converted <code>csi_purpose</code> &amp; <code>csi_relationship</code> into <code>notes</code> variable to store them, as the information is vital for future references.</li>
+<li>More merge conflicts were raised while merging the PR, so 1 week of the time were wasted by just fixing the merge conflicts.</li>
+<li>But it was worth doing it, because I got to understand how the infrastructure application were working and what are happening behind the scenes etc..</li>
+</ul>
+</li>
+<li>Learning Docker and started doing basic stuffs.
+<ul>
+<li>Building images, app images, committing, history, layers and so on.</li>
+<li>Run the <code>forgejo</code> container and self hosted in my local server.</li>
+<li>Making small tweaks to prepare myself to work on the <code>forgejo migration</code> by <strong>Fedora</strong>.</li>
+</ul>
+</li>
+<li>For some times, I was working on <code>zig</code> lang, but the language was just getting popular nowadays and the resources are also scarce. So at the end of Jan 2025, I switch from <code>zig</code> to <code>python</code> again!.</li>
+<li>Installed <strong>Fedora KDE Spin</strong>, and I love this desktop environment. More customizations and more shortcuts. I would say, GNOME is more user-friendly and KDE is developer-friendly.</li>
+</ul>
+</div></article>
 <footer class="py:24">
     <div class="f:fade-30 f:14 mb:8"></div>
     <div class="f:fade-60 f:12">Theme <a class="f:bold" href="https://github.com/serkodev/holy" _target="_blank">Holy</a></div>

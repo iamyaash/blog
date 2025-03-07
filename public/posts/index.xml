@@ -15,5 +15,19 @@
       <guid>https://iamyaash.github.io/posts/devconf-india-2025/</guid>
       <description>DevConf India 2025 It was my first time writing a blog :P (I don’t know how to write a proper one, so bear with me)&#xA;DevConf India 2025 was a memorable conference for me. It was my first time&#xA;Attending a Conference Traveling alone far from South India Traveling in a flight Staying in a hotel Meeting online friends from Fedora in real life I had so many &amp;ldquo;first-time&amp;rdquo; experiences during this event, I really treasure the memories and the things I&amp;rsquo;ve learned.</description>
     </item>
+    <item>
+      <title>m2: Monthly Report: Feb 2025</title>
+      <link>https://iamyaash.github.io/posts/m2-2025/</link>
+      <pubDate>Fri, 28 Feb 2025 20:21:33 +0530</pubDate>
+      <guid>https://iamyaash.github.io/posts/m2-2025/</guid>
+      <description>Monthly Report - m2: Got my onboarding ticket closed at WelcomeToFedora/issue/2 and I&amp;rsquo;m finally one of the Fedora people. Progression on Forgejo Sent mail to logo@fedoraproject.org requesting Fedora Logo &amp;amp; received it couple of days after. Changed the Logo &amp;amp; Favicon successfuly in Forgejo build of Fedora. Changed the color of theme by tweaking the css elements of theme files in web_src/css/themes/*. Changed the UI element by modifying the element in modules/settings/ui.</description>
+    </item>
+    <item>
+      <title>m1: Monthy Report: Jan 2025</title>
+      <link>https://iamyaash.github.io/posts/m1-2025/</link>
+      <pubDate>Fri, 31 Jan 2025 19:22:06 +0530</pubDate>
+      <guid>https://iamyaash.github.io/posts/m1-2025/</guid>
+      <description>Monthly Report -m1: Started using jrnl cmd tool for taking notes &amp;amp; using it sort of like a journal. Merged PR 2418. Migrating essential Information from infra/hosts to infra/ansible. Manually copied the notes variable from each hosts on infra/hosts. In which the name of the hostname shouldn&amp;rsquo;t be phx2 and the same hostname should present in infra/ansible as well. I was supposed to do it using a script, but I didn&amp;rsquo;t have that much experience using scripts on remote servers.</description>
+    </item>
   </channel>
 </rss>
