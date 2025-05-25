@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monthly on blog</title>
-    <link>http://localhost:1313/tags/monthly/</link>
+    <link>https://iamyaash.github.io/tags/monthly/</link>
     <description>Recent content in Monthly on blog</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Apr 2025 09:53:07 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/monthly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamyaash.github.io/tags/monthly/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>m4 - Monthy Report: Apr 2025</title>
-      <link>http://localhost:1313/posts/m4/m4-2025/</link>
+      <title>Monthy Report: Apr 2025</title>
+      <link>https://iamyaash.github.io/posts/m4/m4-2025/</link>
       <pubDate>Thu, 24 Apr 2025 09:53:07 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m4/m4-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m4/m4-2025/</guid>
       <description>A summary of the April monthly report!</description>
     </item>
     <item>
-      <title>m3 - Monthy Report: Mar 2025</title>
-      <link>http://localhost:1313/posts/m3/m3-2025/</link>
+      <title>Monthy Report: Mar 2025</title>
+      <link>https://iamyaash.github.io/posts/m3/m3-2025/</link>
       <pubDate>Sat, 08 Mar 2025 13:17:02 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m3/m3-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m3/m3-2025/</guid>
       <description>A summary of the March monthly report!</description>
     </item>
     <item>
-      <title>m2 - Monthly Report: Feb 2025</title>
-      <link>http://localhost:1313/posts/m2/m2-2025/</link>
+      <title>Monthly Report: Feb 2025</title>
+      <link>https://iamyaash.github.io/posts/m2/m2-2025/</link>
       <pubDate>Fri, 28 Feb 2025 20:21:33 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m2/m2-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m2/m2-2025/</guid>
       <description>A summary of the February monthly report!</description>
     </item>
     <item>
-      <title>m1 - Monthy Report: Jan 2025</title>
-      <link>http://localhost:1313/posts/m1/m1-2025/</link>
+      <title>Monthy Report: Jan 2025</title>
+      <link>https://iamyaash.github.io/posts/m1/m1-2025/</link>
       <pubDate>Fri, 31 Jan 2025 19:22:06 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m1/m1-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m1/m1-2025/</guid>
       <description>A summary of the January monthly report!</description>
     </item>
   </channel>

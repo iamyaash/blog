@@ -1,57 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://iamyaash.github.io/posts/</link>
     <description>Recent content in Posts on blog</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Apr 2025 09:53:07 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iamyaash.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>m4 - Monthy Report: Apr 2025</title>
-      <link>http://localhost:1313/posts/m4/m4-2025/</link>
+      <title>Monthy Report: Apr 2025</title>
+      <link>https://iamyaash.github.io/posts/m4/m4-2025/</link>
       <pubDate>Thu, 24 Apr 2025 09:53:07 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m4/m4-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m4/m4-2025/</guid>
       <description>A summary of the April monthly report!</description>
     </item>
     <item>
-      <title>m3 - Monthy Report: Mar 2025</title>
-      <link>http://localhost:1313/posts/m3/m3-2025/</link>
+      <title>Monthy Report: Mar 2025</title>
+      <link>https://iamyaash.github.io/posts/m3/m3-2025/</link>
       <pubDate>Sat, 08 Mar 2025 13:17:02 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m3/m3-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m3/m3-2025/</guid>
       <description>A summary of the March monthly report!</description>
     </item>
     <item>
       <title>DevConf India 2025</title>
-      <link>http://localhost:1313/posts/devconf-india-2025/devconf-india-2025/</link>
+      <link>https://iamyaash.github.io/posts/devconf-india-2025/devconf-india-2025/</link>
       <pubDate>Thu, 06 Mar 2025 20:44:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/devconf-india-2025/devconf-india-2025/</guid>
-      <description>&lt;h1 id=&#34;devconf-india-2025&#34;&gt;DevConf India 2025&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;It was my first time writing a blog :P (I don’t know how to write a proper one, so bear with me)&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;DevConf India 2025 was a memorable conference for me. It was my first time&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Attending a Conference&lt;/li&gt;
-&lt;li&gt;Traveling alone far from South India&lt;/li&gt;
-&lt;li&gt;Traveling in a flight&lt;/li&gt;
-&lt;li&gt;Staying in a hotel&lt;/li&gt;
-&lt;li&gt;Meeting online friends from Fedora in real life&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I had so many &amp;ldquo;first-time&amp;rdquo; experiences during this event, I really treasure the memories and the things I&amp;rsquo;ve learned.&lt;/p&gt;</description>
+      <guid>https://iamyaash.github.io/posts/devconf-india-2025/devconf-india-2025/</guid>
+      <description>&lt;h1 id=&#34;devconf-india-2025&#34;&gt;DevConf India 2025&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;It was my first time writing a blog :P (I don’t know how to write a proper one, so bear with me)&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;DevConf India 2025 was a memorable conference for me. It was my first time&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Attending a Conference&lt;/li&gt;&#xA;&lt;li&gt;Traveling alone far from South India&lt;/li&gt;&#xA;&lt;li&gt;Traveling in a flight&lt;/li&gt;&#xA;&lt;li&gt;Staying in a hotel&lt;/li&gt;&#xA;&lt;li&gt;Meeting online friends from Fedora in real life&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I had so many &amp;ldquo;first-time&amp;rdquo; experiences during this event, I really treasure the memories and the things I&amp;rsquo;ve learned.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>m2 - Monthly Report: Feb 2025</title>
-      <link>http://localhost:1313/posts/m2/m2-2025/</link>
+      <title>Monthly Report: Feb 2025</title>
+      <link>https://iamyaash.github.io/posts/m2/m2-2025/</link>
       <pubDate>Fri, 28 Feb 2025 20:21:33 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m2/m2-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m2/m2-2025/</guid>
       <description>A summary of the February monthly report!</description>
     </item>
     <item>
-      <title>m1 - Monthy Report: Jan 2025</title>
-      <link>http://localhost:1313/posts/m1/m1-2025/</link>
+      <title>Monthy Report: Jan 2025</title>
+      <link>https://iamyaash.github.io/posts/m1/m1-2025/</link>
       <pubDate>Fri, 31 Jan 2025 19:22:06 +0530</pubDate>
-      <guid>http://localhost:1313/posts/m1/m1-2025/</guid>
+      <guid>https://iamyaash.github.io/posts/m1/m1-2025/</guid>
       <description>A summary of the January monthly report!</description>
     </item>
   </channel>
