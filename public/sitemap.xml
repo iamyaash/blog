@@ -2,39 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://iamyaash.github.io/</loc>
     <lastmod>2025-06-30T23:34:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://iamyaash.github.io/posts/</loc>
     <lastmod>2025-06-30T23:34:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/monthly/</loc>
+    <loc>https://iamyaash.github.io/posts/m5/m5-2025/</loc>
     <lastmod>2025-05-31T16:45:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/m5/m5-2025/</loc>
-    <lastmod>2025-05-31T16:45:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/report/</loc>
-    <lastmod>2025-05-31T16:45:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-31T16:45:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/m4/m4-2025/</loc>
+    <loc>https://iamyaash.github.io/posts/m4/m4-2025/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/m3/m3-2025/</loc>
+    <loc>https://iamyaash.github.io/posts/m3/m3-2025/</loc>
     <lastmod>2025-03-31T13:17:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/devconf-india-2025/devconf-india-2025/</loc>
+    <loc>https://iamyaash.github.io/posts/devconf-india-2025/devconf-india-2025/</loc>
     <lastmod>2025-03-06T20:44:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/m2/m2-2025/</loc>
+    <loc>https://iamyaash.github.io/posts/m2/m2-2025/</loc>
     <lastmod>2025-02-28T20:21:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/m1/m1-2025/</loc>
+    <loc>https://iamyaash.github.io/posts/m1/m1-2025/</loc>
     <lastmod>2025-01-31T19:22:06+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://iamyaash.github.io/categories/</loc>
+  </url><url>
+    <loc>https://iamyaash.github.io/tags/</loc>
   </url>
 </urlset>
