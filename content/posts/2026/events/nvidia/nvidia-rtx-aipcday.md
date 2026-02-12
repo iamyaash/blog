@@ -1,6 +1,6 @@
 ---
 date: '2026-02-10T12:07:50+05:30'
-draft: true
+draft: false
 title: 'NVIDIA RTX AI PC Day - 2026 '
 summary: "Got the opportunity to talk with open-source and Linux enthusiasts. Some college students recognized my Fedora t-shirt and invited me to talk with them. I explained what the Fedora Project is, how they can make the most of open source, and shared some major updates happening in the Fedora Project."
 author: "Yashwanth Rathakrishnan"
@@ -14,7 +14,7 @@ cover:
 
 # Overview
 {{< figure 
-    src="/fedora/posts/2026/events/nvidia/img/main-hall.gif" 
+    src="/blog/posts/2026/events/nvidia/img/main-hall.gif" 
     alt="img: Main Stage - Streaming game trailers and AI technologies related videos" 
 >}}
 The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026, at the CODISSIA Trade Center from 09:30 to 18:30**. There's no entry fee, and it's open to anyone. This event was a major technological showcase for gamers, creators, and developers to experience next-generation AI powered by NVIDIA's latest RTX 50 series GPUs. It attracted more than 15,000 registrations(as far as I know, maybe more!).
@@ -22,7 +22,7 @@ The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026,
 ## Highlights & Activities
 ### On-spot Gaming Zones
 {{< figure 
-    src="/fedora/posts/2026/events/nvidia/img/collage.png" 
+    src="/blog/posts/2026/events/nvidia/img/collage.png" 
     alt="img: Custom built PCs & new NVIDIA RTX 50 series GPUs" 
 >}}
 - Hands-on gaming stations ranged from standard setups to immersive simulations on high-performance rigs with 4K resolutions.
@@ -34,7 +34,7 @@ The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026,
 
 ### AI Demos
 {{< figure 
-    src="/fedora/posts/2026/events/nvidia/img/ai-demo.gif" 
+    src="/blog/posts/2026/events/nvidia/img/ai-demo.gif" 
     alt="img: AI Image Generation" 
 >}}
 - Interactive demos featured AI technologies, including AI-generated images using NVIDIA tools. Some PCs demonstrated AI model training, while others explored 3D applications. I found the AI demos a bit boring.
@@ -45,7 +45,7 @@ The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026,
 I **wore a Fedora logo T-shirt hoping to connect with open source and Linux enthusiasts** - which is rare to see here in Coimbatore. Luckily, I met passionate college students deeply into Linux and open source projects.
 
 {{< figure 
-    src="/fedora/posts/2026/events/nvidia/img/with-students.png" 
+    src="/blog/posts/2026/events/nvidia/img/with-students.png" 
     alt="img: Students from Erode Govt Engineering College & SNS College of Engineering" 
 >}}
 
