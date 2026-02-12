@@ -16,6 +16,8 @@ cover:
 {{< figure 
     src="/blog/posts/2026/events/nvidia/img/main-hall.gif" 
     alt="img: Main Stage - Streaming game trailers and AI technologies related videos" 
+    width="100%" 
+
 >}}
 The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026, at the CODISSIA Trade Center from 09:30 to 18:30**. There's no entry fee, and it's open to anyone. This event was a major technological showcase for gamers, creators, and developers to experience next-generation AI powered by NVIDIA's latest RTX 50 series GPUs. It attracted more than 15,000 registrations(as far as I know, maybe more!).
 
@@ -36,6 +38,8 @@ The NVIDIA RTX AI PC Day in Coimbatore took place on **Friday, January 23, 2026,
 {{< figure 
     src="/blog/posts/2026/events/nvidia/img/ai-demo.gif" 
     alt="img: AI Image Generation" 
+    width="100%" 
+
 >}}
 - Interactive demos featured AI technologies, including AI-generated images using NVIDIA tools. Some PCs demonstrated AI model training, while others explored 3D applications. I found the AI demos a bit boring.
 
@@ -61,4 +65,11 @@ But overall, we had nice talk and some students even messaged me on LinkedIn for
 Events like these are rare in Coimbatore, but I'm looking forward to upcoming ones. I had a wonderful time with my friends and was fortunate to meet a bunch of FOSS and Linux enthusiasts. I'm really happy to know so many people use Linux and are aware of open source and free software. I look forward to attending more events in the future, representing the Fedora Project and advocating for FOSS. A couple of my friends even asked me to help them make their first open source contribution after seeing the students' curiosity. I believe this occasion was a win-win for me.
 
 # Closing
-We stayed until the end of the event, the organized didn't thought that they are going to have these people to this event happeing Coimbatore and they surprised to see this. I hope they will conduct more events like these since they understood the potential of this place.
+{{< figure 
+    src="/blog/posts/2026/events/nvidia/img/return-home.gif" 
+    alt="img: waiting for public transport bus to arrive, 3 hours of travel to reach home." 
+    width="100%" 
+>}}
+We stayed until the end of the event. The organizers didn't expect such a huge amount of people for an event like this in Coimbatore and were surprised by the response. I hope they host more now that they've seen the potential here. 
+
+Finally, we left the auditorium, and I waited for the bus. It took around 30 minutes to arrive. I waited from 19:00, got the bus at 19:30, and reached home by 23:00 after 3 hours of travel. It was a long day, especially traveling from my village to the city and back, which is always tough.
